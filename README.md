@@ -4,4 +4,4 @@ If you want to play UEF files into your Acorn Electron or BBC Micro through a TZ
 By default UEF are compressed using Gzip. Due to small usable memory on an Arduino Nano its near impossible to have TZXduino unzip the files first.
 So for TZXduino to play the UEF they have to be in raw format which means decompressing them first.
 I made this tool to help decompress the files in bulk becuase its a 2 step process.
-My tool automtes the 2 step process.
+My tool automates the 2 step process.
